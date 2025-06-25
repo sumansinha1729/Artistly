@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "DJ Alex",
+    "category": "DJ",
+    "location": "Mumbai",
+    "price": 15000
+  },
+  {
+    "id": 2,
+    "name": "Meera Dance Troupe",
+    "category": "Dancer",
+    "location": "Delhi",
+    "price": 12000
+  },
+  {
+    "id": 3,
+    "name": "MC Rahul",
+    "category": "Speaker",
+    "location": "Bangalore",
+    "price": 10000
+  },
+  {
+    "id": 4,
+    "name": "DJ Zara",
+    "category": "DJ",
+    "location": "Delhi",
+    "price": 16000
+  },
+  {
+    "id": 5,
+    "name": "Bollywood Beats",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "price": 14000
+  },
+  {
+    "id": 6,
+    "name": "Anchor Karan",
+    "category": "Speaker",
+    "location": "Hyderabad",
+    "price": 9000
+  },
+  {
+    "id": 7,
+    "name": "DJ Rohit",
+    "category": "DJ",
+    "location": "Pune",
+    "price": 13000
+  },
+  {
+    "id": 8,
+    "name": "Groove Nation",
+    "category": "Dancer",
+    "location": "Kolkata",
+    "price": 11000
+  },
+  {
+    "id": 9,
+    "name": "Anchor Sneha",
+    "category": "Speaker",
+    "location": "Chennai",
+    "price": 9500
+  },
+  {
+    "id": 10,
+    "name": "DJ King",
+    "category": "DJ",
+    "location": "Bangalore",
+    "price": 17000
+  },
+  {
+    "id": 11,
+    "name": "The Step Up Crew",
+    "category": "Dancer",
+    "location": "Chandigarh",
+    "price": 12500
+  },
+  {
+    "id": 12,
+    "name": "Speaker Aisha",
+    "category": "Speaker",
+    "location": "Pune",
+    "price": 8500
+  },
+  {
+    "id": 13,
+    "name": "DJ Shadow",
+    "category": "DJ",
+    "location": "Hyderabad",
+    "price": 18000
+  },
+  {
+    "id": 14,
+    "name": "Urban Movers",
+    "category": "Dancer",
+    "location": "Bangalore",
+    "price": 13500
+  },
+  {
+    "id": 15,
+    "name": "Anchor Rocky",
+    "category": "Speaker",
+    "location": "Delhi",
+    "price": 10500
+  },
+  {
+    "id": 16,
+    "name": "DJ Tina",
+    "category": "DJ",
+    "location": "Chennai",
+    "price": 14500
+  },
+  {
+    "id": 17,
+    "name": "Fusion Stars",
+    "category": "Singer",
+    "location": "Mumbai",
+    "price": 20000
+  },
+  {
+    "id": 18,
+    "name": "Vocal Vibes",
+    "category": "Singer",
+    "location": "Kolkata",
+    "price": 18000
+  },
+  {
+    "id": 19,
+    "name": "Melody Makers",
+    "category": "Singer",
+    "location": "Delhi",
+    "price": 16000
+  },
+  {
+    "id": 20,
+    "name": "Sufi Soul",
+    "category": "Singer",
+    "location": "Hyderabad",
+    "price": 17000
+  }
+]

@@ -28,10 +28,9 @@ export default function ArtistsPage() {
 
   return (
     <main
+    className="min-h-screen px-10 sm:px-18 md:px-32 pt-5 pb-20"
       style={{
         minHeight: '100vh',
-        padding: '100px',
-        paddingTop:'20px',
         backgroundColor: theme.palette.background.default,
         color: theme.palette.text.primary,
         transition: 'all 0.3s ease',
@@ -44,7 +43,7 @@ export default function ArtistsPage() {
       <div style={{ maxWidth: '96rem', margin: '0 auto' }}>
         <FilterBlock filters={filters} onChange={setFilters} />
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
           <Suspense fallback={<CircularProgress color="primary" />}>
             {filteredArtists.map((artist) => (
               <ArtistCard key={artist.id} artist={artist} />

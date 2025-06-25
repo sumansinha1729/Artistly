@@ -10,7 +10,7 @@ export default function FilterBlock({ filters, onChange }) {
   return (
     <Box className="flex gap-4 flex-wrap mb-6">
       {/* Category */}
-      <FormControl size="small" sx={{ minWidth: 180 }}>
+      <FormControl size="small" sx={{ minWidth: 150 }}>
         <InputLabel id="category-label">Category</InputLabel>
         <Select
           labelId="category-label"
@@ -28,7 +28,7 @@ export default function FilterBlock({ filters, onChange }) {
       </FormControl>
 
       {/* Location */}
-      <FormControl size="small" sx={{ minWidth: 180 }}>
+      <FormControl size="small" sx={{ minWidth: 150 }}>
         <InputLabel id="location-label">Location</InputLabel>
         <Select
           labelId="location-label"
@@ -49,7 +49,7 @@ export default function FilterBlock({ filters, onChange }) {
       </FormControl>
 
       {/* Price Range */}
-      <FormControl size="small" sx={{ minWidth: 180 }}>
+      <FormControl size="small" sx={{ minWidth: 150 }}>
         <InputLabel id="price-label">Price Range</InputLabel>
         <Select
           labelId="price-label"

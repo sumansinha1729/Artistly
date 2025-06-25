@@ -51,7 +51,7 @@ export default function HomePage() {
         </Typography>
         <Typography variant="body1" sx={{ color: theme.palette.text.secondary, mb: 4 }}>
           Discover and book talented DJs, dancers, speakers and singers for your next event. From weddings to
-          concerts, we've got the perfect artist for you.
+          concerts, we have got the perfect artist for you.
         </Typography>
         <Link href="/artists" passHref>
           <Button variant="contained" color="primary">Explore Artists</Button>
